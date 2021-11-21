@@ -4,8 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/ic_launcher_lemonade_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/ic_launcher_lemonade_foreground.xml" value="0.2703125" />
         <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_drink.xml" value="0.1" />
+        <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_restart.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_squeeze.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/drawable/lemon_tree.xml" value="0.25277777777777777" />
         <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Abir/AndroidStudioProjects/Lemonade/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lemonade.xml" value="0.1" />
       </map>
     </option>
   </component>
